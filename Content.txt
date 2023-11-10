@@ -1,1 +1,1 @@
-
+This folder contains the project for course "Network Security Using IDS" (CS 552). The testing set has been uploaded while the training set is larger then 25mb, hence cannot be uploaded to Git.
